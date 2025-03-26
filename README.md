@@ -1,5 +1,5 @@
 ## Test
-**Some text**    \ 
+**Some text**     
 __More text__
 
 
